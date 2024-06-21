@@ -1,8 +1,8 @@
-import ind-ts
+import indts
 from setuptools import setup, find_packages
 
 DISTNAME = 'ind-ts'
-VERSION = ind-ts.__version__
+VERSION = indts.__version__
 
 setup(
     name=DISTNAME,

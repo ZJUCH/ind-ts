@@ -15,6 +15,5 @@ setup(
         'scikit-learn',
         'matplotlib',
     ],
-    python_requires='>=3.6',
     author='zjuch',
 )
